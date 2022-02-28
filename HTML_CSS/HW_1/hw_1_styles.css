@@ -1,0 +1,45 @@
+body {
+    background-color: #0fbcf9;
+    font-family: Futura;
+    margin: 0px;
+}
+
+.header_main {
+    color: #1e272e;
+}
+
+.header_secondary {
+    color: #1e272e;
+}
+
+.img_1 {
+    border: 3px solid black;
+}
+
+.header_div {
+    padding-top: 50px;
+    text-align: center;
+    background-color: #55efc4;
+}
+
+.main_div {
+    margin: 50px;
+    width: 50%;
+    border: 2px solid gray;
+    padding: 15px;
+    background-color: #ffc048;
+
+}
+
+.secondary_div {
+    margin: 50px;
+    width: 50%;
+    padding: 15px;
+    border: 2px solid gray;
+    background-color: #ffc048;
+
+}
+
+li {
+    margin-bottom: 7px;
+}
